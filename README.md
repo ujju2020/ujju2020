@@ -1,130 +1,80 @@
-<div align="center">
-
 # Ujjwal Kumar Bhowmick
-### 🤖 Tech Lead — Embedded V&V | Telecom & HiTech
-#### AI-Powered QA Engineer · Generative AI in Testing · Autonomous Test Automation
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ujjwal3006.pythonanywhere.com-0A66C2?style=for-the-badge)](https://ujjwal3006.pythonanywhere.com/)
+### Tech Lead (Embedded V&V) | Telecom & HiTech
+
+AI-powered QA engineer focused on Generative AI in software testing, autonomous test automation, and reliable verification for Web, Mobile, OTT, STB, and embedded platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://ujjwal3006.pythonanywhere.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ujjwal-kumar-bhowmick-78a4578a)
-[![Email](https://img.shields.io/badge/Email-ujjwalkumarbhowmick30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalkumarbhowmick30@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalkumarbhowmick30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ujju2020-181717?style=for-the-badge&logo=github)](https://github.com/ujju2020)
-[![Location](https://img.shields.io/badge/📍_Bangalore-India-green?style=for-the-badge)](https://ujjwal3006.pythonanywhere.com/)
 
-</div>
+## About Me
 
----
+I lead embedded verification and validation initiatives at L&T Technology Services in Bengaluru, with 13+ years of experience across telecom, CATV, OTT, STB, mobile, and web quality engineering.
 
-## 👨‍💻 About Me
+My current work combines robust QA practice with Generative AI and Agentic AI: intelligent test-case generation, autonomous defect detection, self-healing automation, prompt engineering, and scalable test frameworks. I have delivered 95%+ automation coverage in complex testing environments and continue to build practical systems that shorten feedback cycles without weakening quality.
 
-> *Pioneering the future of software testing through Generative AI and autonomous frameworks.*
+## Current Highlights
 
-I'm a **Tech Lead in Embedded Verification & Validation** at **L&T Technology Services**, Bengaluru, with **13+ years** of experience transforming software quality through cutting-edge AI solutions. I specialize in building **self-healing automation frameworks**, **multi-agent AI systems**, and **intelligent QA pipelines** for Telecom, HiTech, OTT, and STB platforms.
-
-- 🧠 **1+ year** hands-on experience with **Generative AI in QA** (GPT-4, prompt engineering, agentic systems)
-- 🏆 **3× Star of the Month** award winner at L&T Technology Services
-- 📜 **60+ professional certifications** including IIT Kanpur AI/ML & ISTQB Foundation
-- ☁️ **4+ years** managing OTT backend infrastructure on **AWS**
-- 📡 **9+ years** in CATV Digital Headend installation & maintenance
-
----
-
-## 🚀 Key Stats
-
-<div align="center">
-
-| 🏅 Years Experience | 📜 Certifications | ⭐ Star Awards | 🤖 AI-Driven QA |
+| Experience | Certifications | Recognition | Languages |
 |:---:|:---:|:---:|:---:|
-| **13+** | **60+** | **3** | **Yes** |
+| **13+ years** | **60+** | **3x Star of the Month** | Hindi, English, Bengali |
 
-</div>
+- Promoted to **Tech Lead (Embedded V&V)** in February 2026.
+- Completed recent AI and data programs through **IIT Kanpur**, Google Cloud, Salesforce, Coursera, and Deloitte's job simulation.
+- Experienced with OTT backend infrastructure on **AWS** and CATV digital headend systems.
 
----
+## Skills
 
-## 🛠️ Tech Stack & Skills
+### AI, QA, and Automation
 
-### 🤖 AI & Automation
-![Generative AI](https://img.shields.io/badge/Generative_AI-GPT--4-412991?style=flat-square&logo=openai)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-FF6B35?style=flat-square)
-![Selenium](https://img.shields.io/badge/Selenium-Expert-43B02A?style=flat-square&logo=selenium)
-![Playwright](https://img.shields.io/badge/Playwright-Advanced-2EAD33?style=flat-square&logo=playwright)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-2%2B_years-00C4CC?style=flat-square)
-![SeeTest](https://img.shields.io/badge/SeeTest-2.5%2B_years-blue?style=flat-square)
+`Generative AI` `Prompt Engineering` `Python` `Bash` `Selenium` `Playwright` `Robot Framework` `SeeTest` `ISTQB` `Self-healing Automation` `API Testing`
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat-square&logo=gnubash)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-F7DF1E?style=flat-square&logo=javascript)
+### Platforms and Engineering
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-4%2B_years-FF9900?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=githubactions)
+`AWS` `Azure DevOps` `Google Cloud` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Linux` `Git` `REST APIs` `GraphQL` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Grafana` `Prometheus`
 
-### 📡 Domain Expertise
-![OTT Testing](https://img.shields.io/badge/OTT_Testing-4%2B_years-purple?style=flat-square)
-![STB Testing](https://img.shields.io/badge/STB_Testing-4%2B_years-red?style=flat-square)
-![MPEG/DASH](https://img.shields.io/badge/Protocol_Analysis-MPEG%2FDASH%2FTCP--IP-teal?style=flat-square)
-![CAS](https://img.shields.io/badge/Conditional_Access_System-5%2B_years-orange?style=flat-square)
+### Domain Expertise
 
----
+`Embedded V&V` `OTT Testing` `STB Testing` `Android and iOS Testing` `CATV Digital Systems` `AAMP` `XUMO` `CAS` `SMS` `MPEG` `DASH` `TCP/IP` `Rsyslog` `Information Security` `Data Privacy`
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🤖 Software Testing with GenAI](https://ujjwal3006.pythonanywhere.com/projects/genai-testing) | AI platform generating test cases & intelligent insights using GPT-4 | GPT-4, Selenium, Playwright |
-| [📊 Agentic Alarm Dashboard](https://ujjwal3006.pythonanywhere.com/projects/agentic-alarm-dashboard) | Multi-agent AI system for intelligent alert correlation & auto-remediation | Multi-Agent AI, React.js, WebSocket |
-| [🏥 Agentic System Health Check](https://ujjwal3006.pythonanywhere.com/projects/agentic-health-check) | ML-powered infra monitoring with pattern detection & auto-adaptation | Machine Learning, DevOps, Bash |
-| [🎬 AAMP Integration](https://ujjwal3006.pythonanywhere.com/projects/aamp-case-study) | Advanced Adaptive Media Player optimization for high-performance streaming | AAMP, C/C++, HLS/DASH |
-| [📺 XUMO Platform Enhancement](https://ujjwal3006.pythonanywhere.com/projects/xumo-case-study) | IPTV player automation & content delivery optimization | XUMO, IPTV, Python |
-| [🌐 Playwright E2E Framework](https://ujjwal3006.pythonanywhere.com/projects/playwright-framework) | Cross-browser automation — Chromium, Firefox, WebKit | Playwright, Python |
-| [⚙️ FOA Automation System](https://ujjwal3006.pythonanywhere.com/projects/foa-automation) | SSH-based automation with dashboard-style email alerts | Bash, SSH, Docker |
-| [📦 Container History Monitoring](https://ujjwal3006.pythonanywhere.com/projects/container-history-monitoring) | Enterprise multi-env container monitoring with AI detection | Bash, Docker, AI Detection |
-| [🖥️ Automation Test Suites Dashboard](https://ujjwal3006.pythonanywhere.com/projects/nodejs-dashboard) | Real-time Node.js dashboard with WebSocket-powered monitoring | Node.js, WebSocket |
-| [🔄 24x7 Automation Solutions](https://ujjwal3006.pythonanywhere.com/projects/automation-comparison) | Dual-platform enterprise automation (Windows + Linux) | Windows, Linux, PowerShell |
+| Project | Description |
+| --- | --- |
+| [Software Testing With GenAI](https://ujjwal3006.pythonanywhere.com/projects/genai-testing) | GPT-4-assisted test generation, natural-language testing, defect analysis, and adaptive maintenance. |
+| [Agentic Alarm Dashboard](https://ujjwal3006.pythonanywhere.com/projects/agentic-alarm-dashboard) | Multi-agent monitoring with alert correlation, predictive detection, and auto-remediation. |
+| [Agentic System Health Check](https://ujjwal3006.pythonanywhere.com/projects/agentic-health-check) | ML-powered infrastructure health monitoring with pattern detection and auto-adaptation. |
+| [AAMP Integration](https://ujjwal3006.pythonanywhere.com/projects/aamp-case-study) | Adaptive media player integration for high-performance streaming and compatibility. |
+| [XUMO Platform Enhancement](https://ujjwal3006.pythonanywhere.com/projects/xumo-case-study) | IPTV player automation and content-delivery optimization. |
+| [Playwright E2E Framework](https://ujjwal3006.pythonanywhere.com/projects/playwright-framework) | Cross-browser automation across Chromium, Firefox, and WebKit. |
+| [FOA Automation](https://ujjwal3006.pythonanywhere.com/projects/foa-automation) | SSH-based automation with dashboard-style email alerts and monitoring. |
+| [Container History Monitoring](https://ujjwal3006.pythonanywhere.com/projects/container-history-monitoring) | Multi-environment container monitoring with automated detection. |
 
----
+## Professional Experience
 
-## 💼 Professional Experience
+- **Tech Lead (Embedded V&V)**, L&T Technology Services, Bengaluru | Feb 2026 - Present
+- **Senior Engineer (Embedded V&V)**, L&T Technology Services, Bengaluru | Sept 2022 - Feb 2026
+- **Assistant Engineer**, Indian Cable Net Company Ltd., Kolkata | Jan 2019 - Sept 2022
+- **Headend Technical Manager**, Saptak Digital Pvt. Ltd., Burdwan | Nov 2017 - Dec 2018
+- **Digital Headend In-charge**, Aurangabad Satellite Cable Service Centre, Murshidabad | May 2017 - Nov 2017
+- **Senior Technical Executive**, Digicablecomm Services Pvt. Ltd., Kolkata | Apr 2013 - Apr 2017
 
-```
-📌 Tech Lead (Embedded V&V)         L&T Technology Services · Bengaluru       Feb 2026 – Present
-📌 Senior Engineer (Embedded V&V)   L&T Technology Services · Bengaluru       Sept 2022 – Feb 2026
-📌 Assistant Engineer               Indian Cable Net Company · Kolkata         Jan 2019 – Sept 2022
-📌 Headend Technical Manager        Saptak Digital Pvt. Ltd. · Burdwan        Nov 2017 – Dec 2018
-📌 Digital Headend In-charge        Aurangabad Satellite Cable · Murshidabad  May 2017 – Nov 2017
-📌 Senior Technical Executive       Digicablecomm Services · Kolkata          Apr 2013 – Apr 2017
-```
+## Education and Certifications
 
----
+- **B.Tech, Electronics and Communications Engineering**, Institute of Technology & Marine Engineering | 2008-2012
+- **ISTQB Foundation Level**
+- **IIT Kanpur AI/ML Core:** Generative AI, Prompt Engineering, ChatGPT, and Applied Data Science with Python
+- **Generative AI** programs through Google Cloud and Coursera
+- **Data Analytics Job Simulation**, Deloitte via Forage
+- **Information Security Management, Data Privacy, DPO, and secure-systems training**
 
-## 🎓 Education & Certifications
+## Connect
 
-- 🎓 **B.Tech** — Electronics & Communications Engineering, ITME (2008–2012)
-- 🏅 **ISTQB Foundation Level** — International Software Testing Qualifications Board
-- 🧠 **Professional AI & ML Certificate** — IIT Kanpur (Nov 2025)
-- 🔐 **ISMS Certification** — Information Security Management System
-- 📊 **Applied Data Science with Python** — Coursera (Dec 2025)
-- 🤖 **Generative AI Fundamentals** + multiple Coursera AI programs
-- 🏆 **60+ total certifications** across AI, security, automation, DevOps & leadership
+- Portfolio: https://ujjwal3006.pythonanywhere.com/
+- LinkedIn: https://www.linkedin.com/in/ujjwal-kumar-bhowmick-78a4578a
+- Email: ujjwalkumarbhowmick30@gmail.com
+- GitHub: https://github.com/ujju2020
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge)](https://ujjwal3006.pythonanywhere.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal_Kumar_Bhowmick-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ujjwal-kumar-bhowmick-78a4578a)
-[![Email](https://img.shields.io/badge/Gmail-ujjwalkumarbhowmick30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalkumarbhowmick30@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9830283204-25D366?style=for-the-badge&logo=whatsapp)](tel:+919830283204)
-
-</div>
-
----
-
-<div align="center">
-<sub>⚡ Built with passion for AI-powered QA · © 2026 Ujjwal Kumar Bhowmick · <a href="https://github.com/ujju2020">github.com/ujju2020</a></sub>
-</div>
+Built for practical, AI-powered quality engineering.
